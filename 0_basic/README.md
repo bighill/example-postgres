@@ -12,8 +12,8 @@ Set the schema and seed some sample data.
 psql -h localhost -U pg -p 5555 -d pg -f schema_and_seed.sql
 ```
 
-View the data
+Query the data
 
 ```bash
-psql -h localhost -U pg -p 5555 -d pg -f get.sql
+psql -h localhost -U pg -p 5555 -d pg -f query.sql
 ```

@@ -1,6 +1,10 @@
 # Postgres Playground
 
-Notes & examples while learning Postgres
+Notes & examples while learning Postgres.
+
+Each directory here is a self contained example project.
+
+- [Basic](./0_basic/README.md)
 
 ## Docker
 

@@ -1,4 +1,4 @@
-# Example Playground
+# Example Postgres
 
 Notes & examples while learning Postgres.
 
